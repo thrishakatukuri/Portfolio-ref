@@ -9,6 +9,7 @@
 
 html{
     font-size: 60%;
+    -webkit-overflow-scrolling: scroll;
     overflow-x: hidden;
 }
 body{
